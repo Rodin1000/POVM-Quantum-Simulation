@@ -1,4 +1,4 @@
-# POVM-Simulation
+# POVM-Quantum-Simulation
 
 The library is developed for simulating open quantum systems via a probabilistic formulation with autoregressive neural network.
 
