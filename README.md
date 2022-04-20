@@ -6,4 +6,4 @@ The code for the work [Autoregressive Neural Network for Simulating Open Quantum
 
 
 # Citation
-Di Luo*, Zhuo Chen*, Juan Carrasquilla, and Bryan K. Clark, Phys. Rev. Lett. 128, 090501.
+Di Luo*, Zhuo Chen*, Juan Carrasquilla, and Bryan K. Clark, Autoregressive Neural Network for Simulating Open Quantum Systems via a Probabilistic Formulation. Phys. Rev. Lett. 128, 090501.
